@@ -1,4 +1,4 @@
-# nginx-postgres-docker
+# task_1: nginx-postgres-docker
 
 Проект содержит Docker-файлы для настройки контейнеров с `nginx` и `postgresql`.
 
